@@ -121,8 +121,7 @@
 - [Bitcoin Talk Forum](https://bitcointalk.org/) - The original Bitcoin forum founded by Satoshi Nakamoto.
 - [Telegram: Bitcoin](https://t.me/Bitcoin) - A Telegram group for Bitcoin discussions.
 - [Twitter: #Bitcoin](https://twitter.com/search?q=%23bitcoin) - Follow the latest updates and discussions on Bitcoin.
-- [Bitcoin FilmFest](https://bitcoinfilmfest.com/) - Annual Bitcoin-only film festival in Warsaw and year-round Bitcoin Cinema Hub for filmmakers and creators.
-- [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals with source verification.
+|- [Awesome Bitcoin Events](https://github.com/itstomekk/awesome-bitcoin-events) - Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals with source verification.
 
 ## Contribute
 
